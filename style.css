@@ -1,0 +1,108 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+a:link {
+  color: steelblue;
+}
+a:visited {
+  color: gray;
+}
+a:hover {
+  color:  orange;
+}
+
+#breadcrumb {
+	padding-left: 0.5%;
+	margin-top: -35px;
+}
+.breadcrumb {
+	padding-left: 0.5%;
+	margin-top: -35px;
+}
+
+#carouselExampleIndicators {
+	padding-left: 1%;
+	padding-right: 1%;
+}
+h1 {
+font-size: 175%;
+text-align: center;
+color: steelblue;
+padding-top: 5%;
+}
+#homepagesummery {
+	padding-top: 1%;
+	padding-right: 8%;
+	padding-left: 8%;
+}
+li {
+	padding-top: 2%;
+	font-size: 125%;
+}
+
+h2 {
+	font-size: 175%;
+text-align: center;
+color: steelblue;
+padding-top: 5%;
+}
+
+.card-text p {
+	font font-size: 125%;
+}
+
+.col {
+	padding: 3%;
+}
+h3 {
+	font-size: 175%;
+text-align: center;
+color: steelblue;
+padding-top: 5%;
+}
+
+h4 {
+	font-size: 175%;
+text-align: center;
+color: steelblue;
+padding-top: 5%;
+}
+
+h5 {
+	font-size: 175%;
+text-align: center;
+color: steelblue;
+padding-top: 5%;
+}
+
+#statistics {
+	justify-content: flex-end;
+}
+
+#globalnav .nav {
+	margin-top:  -75px;
+	padding-top: 10px;
+}
+
+#globalnav img {
+	padding: 15px;
+}
+
+.nav-item {
+	margin-top: -45px;
+	font-size: 150%;
+	flex-wrap: wrap;
+}
+
+.card-body {
+	padding-left: 8%;
+	padding-right: 8%;
+}
+body {
+	background-color: whitesmoke;
+}
+
+#table {
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
